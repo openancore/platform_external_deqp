@@ -1,11 +1,11 @@
-#ifndef _VKTAMBERTESTCASEUTIL_HPP
-#define _VKTAMBERTESTCASEUTIL_HPP
-/*------------------------------------------------------------------------
+#ifndef _VKTFRAGMENTSHADERINTERLOCKTESTS_HPP
+#define _VKTFRAGMENTSHADERINTERLOCKTESTS_HPP
+/*-------------------------------------------------------------------------
  * Vulkan Conformance Tests
  * ------------------------
  *
- * Copyright (c) 2019 Google LLC
- * Copyright (c) 2019 The Khronos Group Inc.
+ * Copyright (c) 2015 Google Inc.
+ * Copyright (c) 2019 NVIDIA Corporation
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -19,27 +19,22 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  *
+ *//*!
+ * \file
+ * \brief Fragment Shader Interlock tests
  *//*--------------------------------------------------------------------*/
 
-#include "vktTestGroupUtil.hpp"
+#include "tcuDefs.hpp"
+#include "tcuTestCase.hpp"
 
 namespace vkt
 {
-namespace cts_amber
+namespace FragmentShaderInterlock
 {
 
-class AmberTestCase : public tcu::TestNode
-{
-};
+tcu::TestCaseGroup* createTests (tcu::TestContext& testCtx);
 
-AmberTestCase* createAmberTestCase (tcu::TestContext&				testCtx,
-									const char*						name,
-									const char*						description,
-									const char*						category,
-									const std::string&				filename,
-									const std::vector<std::string>	requirements = std::vector<std::string>());
-
-} // cts_amber
+} // FragmentShaderInterlock
 } // vkt
 
-#endif // _VKTAMBERTESTCASEUTIL_HPP
+#endif // _VKTFRAGMENTSHADERINTERLOCKTESTS_HPP
