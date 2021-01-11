@@ -431751,6 +431751,7 @@ dEQP-VK.spirv_assembly.instruction.spirv1p4.uconvert.spec_const_opt_zero_extend_
 dEQP-VK.spirv_assembly.instruction.spirv1p4.wrap.no_signed_wrap
 dEQP-VK.spirv_assembly.instruction.spirv1p4.wrap.no_unsigned_wrap
 dEQP-VK.spirv_assembly.instruction.function_params.sampler_param
+dEQP-VK.spirv_assembly.instruction.image_query.samples_storage
 dEQP-VK.spirv_assembly.instruction.amd_trinary_minmax.min3.i8.scalar
 dEQP-VK.spirv_assembly.instruction.amd_trinary_minmax.min3.i8.vec2
 dEQP-VK.spirv_assembly.instruction.amd_trinary_minmax.min3.i8.vec3
