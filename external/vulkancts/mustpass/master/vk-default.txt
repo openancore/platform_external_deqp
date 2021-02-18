@@ -565032,6 +565032,7 @@ dEQP-VK.synchronization.basic.binary_semaphore.chain
 dEQP-VK.synchronization.basic.timeline_semaphore.one_queue
 dEQP-VK.synchronization.basic.timeline_semaphore.multi_queue
 dEQP-VK.synchronization.basic.timeline_semaphore.chain
+dEQP-VK.synchronization.basic.timeline_semaphore.two_threads
 dEQP-VK.synchronization.op.single_queue.fence.write_fill_buffer_read_copy_buffer.buffer_16384
 dEQP-VK.synchronization.op.single_queue.fence.write_fill_buffer_read_copy_buffer.buffer_262144
 dEQP-VK.synchronization.op.single_queue.fence.write_fill_buffer_read_copy_buffer_to_image.buffer_16384
