@@ -431644,6 +431644,12 @@ dEQP-VK.spirv_assembly.instruction.graphics.64bit_compare.uint64.frag_opulesstha
 dEQP-VK.spirv_assembly.instruction.graphics.64bit_compare.uint64.frag_opulessthanequal_vector
 dEQP-VK.spirv_assembly.instruction.graphics.64bit_compare.uint64.frag_opugreaterthan_vector
 dEQP-VK.spirv_assembly.instruction.graphics.64bit_compare.uint64.frag_opugreaterthanequal_vector
+dEQP-VK.spirv_assembly.instruction.graphics.early_fragment.depth_less
+dEQP-VK.spirv_assembly.instruction.graphics.early_fragment.depth_greater
+dEQP-VK.spirv_assembly.instruction.graphics.early_fragment.depth_less_or_equal
+dEQP-VK.spirv_assembly.instruction.graphics.early_fragment.depth_greater_or_equal
+dEQP-VK.spirv_assembly.instruction.graphics.early_fragment.depth_equal
+dEQP-VK.spirv_assembly.instruction.graphics.early_fragment.depth_not_equal
 dEQP-VK.spirv_assembly.instruction.spirv1p4.opcopylogical.different_matrix_layout
 dEQP-VK.spirv_assembly.instruction.spirv1p4.opcopylogical.different_matrix_strides
 dEQP-VK.spirv_assembly.instruction.spirv1p4.opcopylogical.nested_arrays_different_inner_stride
