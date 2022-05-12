@@ -1,4 +1,5 @@
 dEQP-VK.api.info.extension_core_versions.extension_core_versions
+dEQP-VK.api.info.get_physical_device_properties2.features.provoking_vertex_features_ext
 dEQP-VK.api.info.vulkan1p3.features
 dEQP-VK.api.info.vulkan1p3.properties
 dEQP-VK.api.info.vulkan1p3.feature_extensions_consistency
