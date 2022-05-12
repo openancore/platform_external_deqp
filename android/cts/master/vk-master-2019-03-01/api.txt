@@ -1440,7 +1440,6 @@ dEQP-VK.api.info.get_physical_device_properties2.features.pipeline_executable_pr
 dEQP-VK.api.info.get_physical_device_properties2.features.present_id_features_khr
 dEQP-VK.api.info.get_physical_device_properties2.features.present_wait_features_khr
 dEQP-VK.api.info.get_physical_device_properties2.features.protected_memory_features
-dEQP-VK.api.info.get_physical_device_properties2.features.provoking_vertex_features_ext
 dEQP-VK.api.info.get_physical_device_properties2.features.primitive_topology_list_restart_features_ext
 dEQP-VK.api.info.get_physical_device_properties2.features.private_data_features
 dEQP-VK.api.info.get_physical_device_properties2.features.ray_tracing_pipeline_features_khr
