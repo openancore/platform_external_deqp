@@ -87575,7 +87575,6 @@ dEQP-VK.api.granularity.in_render_pass.d32_sfloat_s8_uint
 dEQP-VK.api.get_memory_commitment.memory_commitment
 dEQP-VK.api.get_memory_commitment.memory_commitment_allocate_only
 dEQP-VK.api.external.semaphore.sync_fd.info_binary
-dEQP-VK.api.external.semaphore.sync_fd.info_timeline
 dEQP-VK.api.external.semaphore.sync_fd.import_twice_temporary
 dEQP-VK.api.external.semaphore.sync_fd.reimport_temporary
 dEQP-VK.api.external.semaphore.sync_fd.import_multiple_times_temporary
