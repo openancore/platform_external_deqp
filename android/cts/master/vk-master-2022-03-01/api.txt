@@ -57125,6 +57125,7 @@ dEQP-VK.api.copy_and_blit.copy_commands2.resolve_image.copy_with_regions_before_
 dEQP-VK.api.copy_and_blit.copy_commands2.resolve_image.copy_with_regions_before_resolving.16_bit
 dEQP-VK.api.copy_and_blit.copy_commands2.resolve_image.copy_with_regions_before_resolving.32_bit
 dEQP-VK.api.copy_and_blit.copy_commands2.resolve_image.copy_with_regions_before_resolving.64_bit
+dEQP-VK.api.external.semaphore.sync_fd.info_timeline
 dEQP-VK.api.pipeline.pipeline_layout.lifetime.destroy_after_compute_pipeline_construction
 dEQP-VK.api.pipeline.pipeline_layout.lifetime.destroy_after_graphics_pipeline_construction
 dEQP-VK.api.pipeline.pipeline_invalid_pointers_unused_structs.graphics
