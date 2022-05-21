@@ -12,7 +12,12 @@ dEQP-VK.api.device_drm_properties.drm_files_exist
 dEQP-VK.api.device_init.create_device_global_priority_khr.basic
 dEQP-VK.api.device_init.create_device_global_priority_query.basic
 dEQP-VK.api.device_init.create_device_global_priority_query_khr.basic
+dEQP-VK.api.device_init.create_device_unsupported_features.multiview_features
+dEQP-VK.api.device_init.create_device_unsupported_features.buffer_device_address_features
+dEQP-VK.api.device_init.create_device_unsupported_features.inline_uniform_block_features
+dEQP-VK.api.device_init.create_device_unsupported_features.transform_feedback_features_ext
 dEQP-VK.api.device_init.create_device_unsupported_features.provoking_vertex_features_ext
+dEQP-VK.api.device_init.create_device_unsupported_features.line_rasterization_features_ext
 dEQP-VK.api.buffer.basic.max_size
 dEQP-VK.api.buffer.basic.max_size_sparse
 dEQP-VK.api.buffer.invalid_buffer_features.vk_format_s8_uint
@@ -57120,6 +57125,7 @@ dEQP-VK.api.copy_and_blit.copy_commands2.resolve_image.copy_with_regions_before_
 dEQP-VK.api.copy_and_blit.copy_commands2.resolve_image.copy_with_regions_before_resolving.16_bit
 dEQP-VK.api.copy_and_blit.copy_commands2.resolve_image.copy_with_regions_before_resolving.32_bit
 dEQP-VK.api.copy_and_blit.copy_commands2.resolve_image.copy_with_regions_before_resolving.64_bit
+dEQP-VK.api.external.semaphore.sync_fd.info_timeline
 dEQP-VK.api.pipeline.pipeline_layout.lifetime.destroy_after_compute_pipeline_construction
 dEQP-VK.api.pipeline.pipeline_layout.lifetime.destroy_after_graphics_pipeline_construction
 dEQP-VK.api.pipeline.pipeline_invalid_pointers_unused_structs.graphics
