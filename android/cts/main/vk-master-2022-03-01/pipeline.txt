@@ -1,3 +1,6 @@
+dEQP-VK.pipeline.pipeline_library.dynamic_control_points.change_output
+dEQP-VK.pipeline.pipeline_library.dynamic_control_points.change_winding
+dEQP-VK.pipeline.pipeline_library.dynamic_control_points.change_output_winding
 dEQP-VK.pipeline.pipeline_library.stencil.format.s8_uint.states.fail_keep.pass_keep.dfail_keep.comp_never
 dEQP-VK.pipeline.pipeline_library.stencil.format.s8_uint.states.fail_keep.pass_keep.dfail_keep.comp_less
 dEQP-VK.pipeline.pipeline_library.stencil.format.s8_uint.states.fail_keep.pass_keep.dfail_keep.comp_equal
@@ -287669,6 +287672,9 @@ dEQP-VK.pipeline.pipeline_library.graphics_library.misc.other.null_descriptor_se
 dEQP-VK.pipeline.pipeline_library.graphics_library.misc.non_graphics.shader_module_info_comp
 dEQP-VK.pipeline.pipeline_library.graphics_library.misc.non_graphics.shader_module_info_rt
 dEQP-VK.pipeline.pipeline_library.graphics_library.misc.non_graphics.shader_module_info_rt_lib
+dEQP-VK.pipeline.monolithic.dynamic_control_points.change_output
+dEQP-VK.pipeline.monolithic.dynamic_control_points.change_winding
+dEQP-VK.pipeline.monolithic.dynamic_control_points.change_output_winding
 dEQP-VK.pipeline.monolithic.blend.format.r10x6g10x6b10x6a10x6_unorm_4pack16.states.color_dc_sas_rsub_alpha_1mdc_1msc_sub-color_1msa_1msc_add_alpha_ca_da_min-color_1msc_da_sub_alpha_1mca_ca_sub-color_o_1mda_max_alpha_sa_dc_min
 dEQP-VK.pipeline.monolithic.blend.format.r10x6g10x6b10x6a10x6_unorm_4pack16.states.color_sas_1mda_rsub_alpha_1mda_1mcc_sub-color_1mda_1mca_min_alpha_o_cc_min-color_1mdc_da_min_alpha_1mda_da_min-color_sas_1msa_max_alpha_sas_o_min
 dEQP-VK.pipeline.monolithic.blend.format.r10x6g10x6b10x6a10x6_unorm_4pack16.states.color_ca_1mcc_rsub_alpha_sa_1msc_rsub-color_1mca_ca_rsub_alpha_1msc_da_rsub-color_1mcc_1mdc_sub_alpha_z_da_sub-color_sc_dc_add_alpha_1mdc_1msa_min
@@ -412748,6 +412754,9 @@ dEQP-VK.pipeline.monolithic.color_write_enable_maxa.cwe_after_bind.attachments5_
 dEQP-VK.pipeline.monolithic.color_write_enable_maxa.cwe_after_bind.attachments5_more3
 dEQP-VK.pipeline.monolithic.misc.implicit_primitive_id
 dEQP-VK.pipeline.monolithic.misc.implicit_primitive_id_with_tessellation
+dEQP-VK.pipeline.fast_linked_library.dynamic_control_points.change_output
+dEQP-VK.pipeline.fast_linked_library.dynamic_control_points.change_winding
+dEQP-VK.pipeline.fast_linked_library.dynamic_control_points.change_output_winding
 dEQP-VK.pipeline.fast_linked_library.stencil.format.s8_uint.states.fail_keep.pass_keep.dfail_keep.comp_never
 dEQP-VK.pipeline.fast_linked_library.stencil.format.s8_uint.states.fail_keep.pass_keep.dfail_keep.comp_less
 dEQP-VK.pipeline.fast_linked_library.stencil.format.s8_uint.states.fail_keep.pass_keep.dfail_keep.comp_equal
