@@ -287629,6 +287629,9 @@ dEQP-VK.pipeline.pipeline_library.misc.unused_shader_stages
 dEQP-VK.pipeline.pipeline_library.misc.unused_shader_stages_include_geom
 dEQP-VK.pipeline.pipeline_library.misc.unused_shader_stages_include_tess
 dEQP-VK.pipeline.pipeline_library.misc.unused_shader_stages_include_tess_include_geom
+dEQP-VK.pipeline.pipeline_library.misc.descriptor_bind_test_backwards
+dEQP-VK.pipeline.pipeline_library.misc.descriptor_bind_test_holes
+dEQP-VK.pipeline.pipeline_library.misc.descriptor_bind_test_backwards_holes
 dEQP-VK.pipeline.pipeline_library.graphics_library.fast.4
 dEQP-VK.pipeline.pipeline_library.graphics_library.fast.0_1111
 dEQP-VK.pipeline.pipeline_library.graphics_library.fast.0_112
@@ -412755,6 +412758,9 @@ dEQP-VK.pipeline.monolithic.color_write_enable_maxa.cwe_after_bind.attachments5_
 dEQP-VK.pipeline.monolithic.color_write_enable_maxa.cwe_after_bind.attachments5_more3
 dEQP-VK.pipeline.monolithic.misc.implicit_primitive_id
 dEQP-VK.pipeline.monolithic.misc.implicit_primitive_id_with_tessellation
+dEQP-VK.pipeline.monolithic.misc.descriptor_bind_test_backwards
+dEQP-VK.pipeline.monolithic.misc.descriptor_bind_test_holes
+dEQP-VK.pipeline.monolithic.misc.descriptor_bind_test_backwards_holes
 dEQP-VK.pipeline.fast_linked_library.dynamic_control_points.change_output
 dEQP-VK.pipeline.fast_linked_library.dynamic_control_points.change_winding
 dEQP-VK.pipeline.fast_linked_library.dynamic_control_points.change_output_winding
@@ -700387,3 +700393,6 @@ dEQP-VK.pipeline.fast_linked_library.misc.unused_shader_stages
 dEQP-VK.pipeline.fast_linked_library.misc.unused_shader_stages_include_geom
 dEQP-VK.pipeline.fast_linked_library.misc.unused_shader_stages_include_tess
 dEQP-VK.pipeline.fast_linked_library.misc.unused_shader_stages_include_tess_include_geom
+dEQP-VK.pipeline.fast_linked_library.misc.descriptor_bind_test_backwards
+dEQP-VK.pipeline.fast_linked_library.misc.descriptor_bind_test_holes
+dEQP-VK.pipeline.fast_linked_library.misc.descriptor_bind_test_backwards_holes
