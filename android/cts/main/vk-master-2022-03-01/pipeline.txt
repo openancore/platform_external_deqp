@@ -74111,6 +74111,7 @@ dEQP-VK.pipeline.pipeline_library.dynamic_offset.combined_descriptors.single_off
 dEQP-VK.pipeline.pipeline_library.dynamic_offset.combined_descriptors.single_offset.reverse_order_64_compute_first
 dEQP-VK.pipeline.pipeline_library.dynamic_offset.combined_descriptors.single_offset.reverse_order_256_graphics_first
 dEQP-VK.pipeline.pipeline_library.dynamic_offset.combined_descriptors.single_offset.reverse_order_256_compute_first
+dEQP-VK.pipeline.pipeline_library.dynamic_vertex_attribute.nonsequential
 dEQP-VK.pipeline.pipeline_library.early_destroy.cache
 dEQP-VK.pipeline.pipeline_library.early_destroy.no_cache
 dEQP-VK.pipeline.pipeline_library.early_destroy.cache_destroy_layout
@@ -304946,6 +304947,7 @@ dEQP-VK.pipeline.monolithic.dynamic_offset.combined_descriptors.single_offset.re
 dEQP-VK.pipeline.monolithic.dynamic_offset.combined_descriptors.single_offset.reverse_order_64_compute_first
 dEQP-VK.pipeline.monolithic.dynamic_offset.combined_descriptors.single_offset.reverse_order_256_graphics_first
 dEQP-VK.pipeline.monolithic.dynamic_offset.combined_descriptors.single_offset.reverse_order_256_compute_first
+dEQP-VK.pipeline.monolithic.dynamic_vertex_attribute.nonsequential
 dEQP-VK.pipeline.monolithic.image.suballocation.sampling_type.combined.view_type.1d.format.r4g4_unorm_pack8.count_1.size.pipeline_protected_access_1x1
 dEQP-VK.pipeline.monolithic.image.suballocation.sampling_type.combined.view_type.1d.format.r4g4_unorm_pack8.count_1.size.pipeline_protected_access_2x1
 dEQP-VK.pipeline.monolithic.image.suballocation.sampling_type.combined.view_type.1d.format.r4g4_unorm_pack8.count_1.size.pipeline_protected_access_32x1
@@ -509495,6 +509497,7 @@ dEQP-VK.pipeline.fast_linked_library.dynamic_offset.combined_descriptors.single_
 dEQP-VK.pipeline.fast_linked_library.dynamic_offset.combined_descriptors.single_offset.reverse_order_64_compute_first
 dEQP-VK.pipeline.fast_linked_library.dynamic_offset.combined_descriptors.single_offset.reverse_order_256_graphics_first
 dEQP-VK.pipeline.fast_linked_library.dynamic_offset.combined_descriptors.single_offset.reverse_order_256_compute_first
+dEQP-VK.pipeline.fast_linked_library.dynamic_vertex_attribute.nonsequential
 dEQP-VK.pipeline.fast_linked_library.early_destroy.cache
 dEQP-VK.pipeline.fast_linked_library.early_destroy.no_cache
 dEQP-VK.pipeline.fast_linked_library.early_destroy.cache_destroy_layout
