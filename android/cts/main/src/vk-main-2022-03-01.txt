@@ -167641,9 +167641,7 @@ dEQP-VK.memory_model.shared.16bit.arrays_of_arrays.6
 dEQP-VK.memory_model.shared.16bit.arrays_of_arrays.7
 dEQP-VK.memory_model.shared.16bit.arrays_of_arrays.8
 dEQP-VK.memory_model.shared.16bit.arrays_of_arrays.9
-dEQP-VK.memory_model.shared.16bit.nested_structs.0
 dEQP-VK.memory_model.shared.16bit.nested_structs.1
-dEQP-VK.memory_model.shared.16bit.nested_structs.2
 dEQP-VK.memory_model.shared.16bit.nested_structs.3
 dEQP-VK.memory_model.shared.16bit.nested_structs.4
 dEQP-VK.memory_model.shared.16bit.nested_structs.5
@@ -167653,7 +167651,6 @@ dEQP-VK.memory_model.shared.16bit.nested_structs.8
 dEQP-VK.memory_model.shared.16bit.nested_structs.9
 dEQP-VK.memory_model.shared.16bit.nested_structs_arrays.0
 dEQP-VK.memory_model.shared.16bit.nested_structs_arrays.1
-dEQP-VK.memory_model.shared.16bit.nested_structs_arrays.2
 dEQP-VK.memory_model.shared.16bit.nested_structs_arrays.3
 dEQP-VK.memory_model.shared.16bit.nested_structs_arrays.4
 dEQP-VK.memory_model.shared.16bit.nested_structs_arrays.5
