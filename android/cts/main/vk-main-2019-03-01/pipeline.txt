@@ -39745,11 +39745,6 @@ dEQP-VK.pipeline.monolithic.render_to_image.core.cube_array.huge.width_height.r8
 dEQP-VK.pipeline.monolithic.render_to_image.core.cube_array.huge.width_height.r8g8b8a8_unorm_d24_unorm_s8_uint
 dEQP-VK.pipeline.monolithic.render_to_image.core.cube_array.huge.width_height.r8g8b8a8_unorm_d32_sfloat_s8_uint
 dEQP-VK.pipeline.monolithic.render_to_image.core.cube_array.huge.width_height.r8g8b8a8_unorm_s8_uint
-dEQP-VK.pipeline.monolithic.render_to_image.core.cube_array.huge.width_height_layers.r8g8b8a8_unorm
-dEQP-VK.pipeline.monolithic.render_to_image.core.cube_array.huge.width_height_layers.r8g8b8a8_unorm_d16_unorm
-dEQP-VK.pipeline.monolithic.render_to_image.core.cube_array.huge.width_height_layers.r8g8b8a8_unorm_d24_unorm_s8_uint
-dEQP-VK.pipeline.monolithic.render_to_image.core.cube_array.huge.width_height_layers.r8g8b8a8_unorm_d32_sfloat_s8_uint
-dEQP-VK.pipeline.monolithic.render_to_image.core.cube_array.huge.width_height_layers.r8g8b8a8_unorm_s8_uint
 dEQP-VK.pipeline.monolithic.render_to_image.core.cube_array.mipmap.r16g16_sint
 dEQP-VK.pipeline.monolithic.render_to_image.core.cube_array.mipmap.r16g16_sint_d16_unorm
 dEQP-VK.pipeline.monolithic.render_to_image.core.cube_array.mipmap.r16g16_sint_d24_unorm_s8_uint

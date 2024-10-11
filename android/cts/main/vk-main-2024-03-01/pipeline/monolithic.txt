@@ -26189,6 +26189,11 @@ dEQP-VK.pipeline.monolithic.push_constant.graphics_pipeline.unused_overlap_6
 dEQP-VK.pipeline.monolithic.push_descriptor.graphics.maintenance5_storage_texel_buffer
 dEQP-VK.pipeline.monolithic.push_descriptor.graphics.maintenance5_uniform_buffer
 dEQP-VK.pipeline.monolithic.push_descriptor.graphics.maintenance5_uniform_texel_buffer
+dEQP-VK.pipeline.monolithic.render_to_image.core.cube_array.huge.width_height_layers.r8g8b8a8_unorm
+dEQP-VK.pipeline.monolithic.render_to_image.core.cube_array.huge.width_height_layers.r8g8b8a8_unorm_d16_unorm
+dEQP-VK.pipeline.monolithic.render_to_image.core.cube_array.huge.width_height_layers.r8g8b8a8_unorm_d24_unorm_s8_uint
+dEQP-VK.pipeline.monolithic.render_to_image.core.cube_array.huge.width_height_layers.r8g8b8a8_unorm_d32_sfloat_s8_uint
+dEQP-VK.pipeline.monolithic.render_to_image.core.cube_array.huge.width_height_layers.r8g8b8a8_unorm_s8_uint
 dEQP-VK.pipeline.monolithic.sampler.border_swizzle.a1b5g5r5_unorm_pack16_khr.0gba.custom.gather_0.no_swizzle_hint
 dEQP-VK.pipeline.monolithic.sampler.border_swizzle.a1b5g5r5_unorm_pack16_khr.0gba.custom.gather_0.with_swizzle_hint
 dEQP-VK.pipeline.monolithic.sampler.border_swizzle.a1b5g5r5_unorm_pack16_khr.0gba.custom.gather_1.no_swizzle_hint
