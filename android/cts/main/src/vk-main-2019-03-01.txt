@@ -222878,7 +222878,6 @@ dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp16.input_args.inv_sq
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp16.input_args.mat_det_denorm_flush_to_zero
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp16.input_args.mat_inv_denorm_flush_to_zero
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp16.input_args.modf_denorm_flush_to_zero
-dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp16.input_args.modf_st_denorm_flush_to_zero
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp16.input_args.normalize_denorm_flush_to_zero
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp16.input_args.reflect_denorm_flush_to_zero
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp16.input_args.refract_denorm_flush_to_zero
@@ -223478,7 +223477,6 @@ dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp32.input_args.inv_sq
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp32.input_args.mat_det_denorm_flush_to_zero
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp32.input_args.mat_inv_denorm_flush_to_zero
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp32.input_args.modf_denorm_flush_to_zero
-dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp32.input_args.modf_st_denorm_flush_to_zero
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp32.input_args.normalize_denorm_flush_to_zero
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp32.input_args.reflect_denorm_flush_to_zero
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp32.input_args.refract_denorm_flush_to_zero
@@ -229541,7 +229539,6 @@ dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.inv_s
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.mat_det_denorm_flush_to_zero_vert
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.mat_inv_denorm_flush_to_zero_vert
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.modf_denorm_flush_to_zero_vert
-dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.modf_st_denorm_flush_to_zero_vert
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.normalize_denorm_flush_to_zero_vert
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.reflect_denorm_flush_to_zero_vert
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.refract_denorm_flush_to_zero_vert
@@ -229851,7 +229848,6 @@ dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.inv_s
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.mat_det_denorm_flush_to_zero_frag
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.mat_inv_denorm_flush_to_zero_frag
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.modf_denorm_flush_to_zero_frag
-dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.modf_st_denorm_flush_to_zero_frag
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.normalize_denorm_flush_to_zero_frag
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.reflect_denorm_flush_to_zero_frag
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.refract_denorm_flush_to_zero_frag
@@ -230741,7 +230737,6 @@ dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.inv_s
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.mat_det_denorm_flush_to_zero_vert
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.mat_inv_denorm_flush_to_zero_vert
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.modf_denorm_flush_to_zero_vert
-dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.modf_st_denorm_flush_to_zero_vert
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.normalize_denorm_flush_to_zero_vert
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.reflect_denorm_flush_to_zero_vert
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.refract_denorm_flush_to_zero_vert
@@ -231051,7 +231046,6 @@ dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.inv_s
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.mat_det_denorm_flush_to_zero_frag
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.mat_inv_denorm_flush_to_zero_frag
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.modf_denorm_flush_to_zero_frag
-dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.modf_st_denorm_flush_to_zero_frag
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.normalize_denorm_flush_to_zero_frag
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.reflect_denorm_flush_to_zero_frag
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.refract_denorm_flush_to_zero_frag

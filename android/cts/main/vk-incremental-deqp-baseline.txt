@@ -168802,7 +168802,6 @@ dEQP-VK.memory.pipeline_barrier.host_write_image_sampled.1048576
 dEQP-VK.memory.pipeline_barrier.host_write_image_sampled.65536
 dEQP-VK.memory.pipeline_barrier.host_write_image_sampled.8192
 dEQP-VK.memory.pipeline_barrier.host_write_index_buffer.1024
-dEQP-VK.memory.pipeline_barrier.host_write_index_buffer.1048576
 dEQP-VK.memory.pipeline_barrier.host_write_index_buffer.65536
 dEQP-VK.memory.pipeline_barrier.host_write_index_buffer.8192
 dEQP-VK.memory.pipeline_barrier.host_write_storage_buffer.1024
@@ -295566,7 +295565,6 @@ dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp16.input_args.log_de
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp16.input_args.mat_det_denorm_flush_to_zero
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp16.input_args.mat_inv_denorm_flush_to_zero
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp16.input_args.modf_denorm_flush_to_zero
-dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp16.input_args.modf_st_denorm_flush_to_zero
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp16.input_args.nan_add_var_preserve
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp16.input_args.nan_mul_var_preserve
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp16.input_args.nan_phi_var_preserve
@@ -296169,7 +296167,6 @@ dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp32.input_args.log_de
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp32.input_args.mat_det_denorm_flush_to_zero
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp32.input_args.mat_inv_denorm_flush_to_zero
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp32.input_args.modf_denorm_flush_to_zero
-dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp32.input_args.modf_st_denorm_flush_to_zero
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp32.input_args.nan_add_var_preserve
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp32.input_args.nan_mul_var_preserve
 dEQP-VK.spirv_assembly.instruction.compute.float_controls.fp32.input_args.nan_phi_var_preserve
@@ -304201,8 +304198,6 @@ dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.mat_i
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.mat_inv_denorm_flush_to_zero_vert
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.modf_denorm_flush_to_zero_frag
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.modf_denorm_flush_to_zero_vert
-dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.modf_st_denorm_flush_to_zero_frag
-dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.modf_st_denorm_flush_to_zero_vert
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.nan_add_var_preserve_frag
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.nan_add_var_preserve_vert
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp16.input_args.nan_mul_var_preserve_frag
@@ -305407,8 +305402,6 @@ dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.mat_i
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.mat_inv_denorm_flush_to_zero_vert
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.modf_denorm_flush_to_zero_frag
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.modf_denorm_flush_to_zero_vert
-dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.modf_st_denorm_flush_to_zero_frag
-dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.modf_st_denorm_flush_to_zero_vert
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.nan_add_var_preserve_frag
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.nan_add_var_preserve_vert
 dEQP-VK.spirv_assembly.instruction.graphics.float_controls.fp32.input_args.nan_mul_var_preserve_frag
