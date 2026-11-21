@@ -1,0 +1,13 @@
+Blobs of 100 MiB or larger were removed from this history so GitHub
+can store android-15.0.0_r36. They are test data, sample media,
+generated dumps, wrapper archives, or pngs, not the project source.
+The release commit id differs from AOSP where history was rewritten.
+
+Project: platform/external/deqp
+
+Removed from the release tree:
+- android/cts/main/src/vk-main-2024-03-01.txt (170.8 MiB)
+- android/cts/main/src/vk-master-2023-03-01.txt (114.9 MiB)
+
+Removed from older history only. Not present on android-15.0.0_r36:
+- none
